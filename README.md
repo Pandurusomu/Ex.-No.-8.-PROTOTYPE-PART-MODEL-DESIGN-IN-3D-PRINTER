@@ -45,6 +45,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![Screenshot 2023-11-29 090331](https://github.com/Pandurusomu/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/148988619/30e4a9a0-3658-4f9e-be4f-0a2893b7141f)
 
 ### Name: Panduru Somu
 ### Register Number: 23005083
